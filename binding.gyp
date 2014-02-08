@@ -13,7 +13,6 @@
               '<!@(taglib-config --cflags)'
             ],
             'OTHER_LDFLAGS': [
-              '-dynamiclib'
             ]
           }
         }, {
